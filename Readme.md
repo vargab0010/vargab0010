@@ -39,7 +39,7 @@
 
 ### 🔝 Top Contributed Repo
 
-<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=vargab0010&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
+<img width="100%" height="250px" src="https://github-contributor-stats.vercel.app/api?username=vargab0010&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
 
 ---
 
