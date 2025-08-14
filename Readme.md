@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center" border="2">
-  <img width="100%" height="250px" src="https://nirzak-streak-stats.vercel.app/?user=vargab0010&theme=dark&hide_border=false" />
+  <img width="100%" height="300px" src="https://nirzak-streak-stats.vercel.app/?user=vargab0010&theme=dark&hide_border=false" />
 </div>
 
 ###
