@@ -22,13 +22,13 @@
 <table border="2">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vargab0010&show_icons=true&locale=en" alt="vargab0010" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vargab0010&theme=dark&show_icons=true&locale=en" alt="vargab0010" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargab0010" alt="vargab0010" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargab0010&theme=dark" alt="vargab0010" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vargab0010&show_icons=true&locale=en&layout=compact" alt="vargab0010" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vargab0010&theme=dark&show_icons=true&locale=en&layout=compact" alt="vargab0010" />
     </td>
   </tr>
 </table>
