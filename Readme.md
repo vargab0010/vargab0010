@@ -4,19 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vargab0010&label=Profile%20views&color=0e75b6&style=flat" alt="vargab0010" /> </p>
 
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding"/>
+<table>
+<tr>
+<td>
 
+- 🌱 I’m currently learning **JavaScript, MongoDB, and AWS Cloud**  
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/vargab0010?tab=repositories)  
+- 📫 Reach me at **vargabbanerjee581@gmail.com**  
 
-- 🌱 I’m currently learning **Javascript,MonogoDB and AWS cloud**
+</td>
+<td>
+  <img width="400" height="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding"/>
+</td>
+</tr>
+</table>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vargab0010?tab=repositories](https://github.com/vargab0010?tab=repositories)
-
-- 📫 How to reach me **vargabbanerjee581@gmail.com**
-
-<br>
-<br>
-<br>
-
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/APCg5Kfc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vargabbanerjee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VargabBanerjee) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VargabBanerjee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vargabbanerjee581@gmail.com) 
