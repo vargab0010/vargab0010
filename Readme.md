@@ -33,11 +33,8 @@
   </tr>
 </table>
 
-###
+---
 
-## 🐍 My GitHub Contribution Snake
-
-<img src="https://raw.githubusercontent.com/vargab0010/vargab0010/main/dist/github-contribution-grid-snake.svg" width="100%" />
 
 
 ###
